@@ -3,7 +3,7 @@ Name = Whois
 Module = whois
 
 [Documentation]
-Description = An Err plugin skeleton
+Description = Run the whois command to see if a domain is available and who owns it
 
 [Python]
 Version = 2
