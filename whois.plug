@@ -1,0 +1,9 @@
+[Core]
+Name = Whois
+Module = whois
+
+[Documentation]
+Description = An Err plugin skeleton
+
+[Python]
+Version = 2
