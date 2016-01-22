@@ -1,9 +1,9 @@
 [Core]
-Name = Whois
-Module = whois
+Name = Auto
+Module = Auto
 
 [Documentation]
-Description = Run the whois command to see if a domain is available and who owns it
+Description = Run TekDefense's Automater
 
 [Python]
 Version = 2
