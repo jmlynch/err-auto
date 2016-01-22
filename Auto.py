@@ -11,7 +11,7 @@ class Auto(BotPlugin):
 	try:
 		Popen(['/usr/bin/automater/Automater -b'], stdout=PIPE, stderr=STDOUT).communicate()[0]
 	except Exception as e:
-		self.warn_admins("This plugin uses whois and it wasn't found on your system")
+		self.warn_admins("This plugin uses automater and it wasn't found on your system")
 
    @botcmd
    def Auto(self, mess, args):
