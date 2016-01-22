@@ -1,6 +1,6 @@
 [Core]
-Name = auto
-Module = auto
+Name = Auto
+Module = Auto
 
 [Documentation]
 Description = Run TekDefense's Automater
