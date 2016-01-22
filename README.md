@@ -1,13 +1,13 @@
-err-whois
+err-auto
 ============
 
-Simple whois plugin for Errbot.
+Simple TekDefense Automater plugin for Errbot.
 ### Installation
 The machine running Errbot must have the whois command. 
 
-	!repos install https://github.com/keithslater/err-whois.git
+	!repos install https://github.com/jmlynch/err-auto
 
 ### Usage
 
-	!whois domain.com
+	!auto 8.8.8.8
 
